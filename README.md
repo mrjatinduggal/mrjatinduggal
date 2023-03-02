@@ -1,9 +1,9 @@
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--qc_GPsrm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y932df8rdy0bwn1jzdrq.jpg)
+![MasterHead](mern-light-banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Jatin Duggal</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<img align="right" alt="image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="image" width="400" src="coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjatinduggal&label=Profile%20views&color=0e75b6&style=flat" alt="mrjatinduggal" /> </p>
 
