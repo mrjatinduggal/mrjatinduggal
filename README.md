@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrjatinduggal&label=Profile%20views&color=0e75b6&style=flat" alt="mrjatinduggal" /> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I'm currently gaining expertise in **Next.js**
 
 - 💬 Ask me about **MERN stack**
 
